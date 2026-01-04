@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 
+use App\Http\Controllers\ContactController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -30,21 +32,28 @@ Route::get('/pricing', function () {
     return view('pages.pricing');
 });
 
+//Route::get('/contact', function () {
+//    return view('pages.contact');
+//});
+// Route pour afficher la page de contact
 Route::get('/contact', function () {
     return view('pages.contact');
-});
+})->name('contact.form');
 
-Route::post('/contact', function (Request $request) {
+// Route pour traiter l'envoi du formulaire
+Route::post('/contact', [ContactController::class, 'send'])->name('contact.send');
+
+//Route::post('/contact', function (Request $request) {
     // Validation des données
-    $validated = $request->validate([
-        'name' => 'required|max:255',
-        'email' => 'required|email',
-        'message' => 'required',
-    ]);
+    //$validated = $request->validate([
+      //  'name' => 'required|max:255',
+     //   'email' => 'required|email',
+     //   'message' => 'required',
+   // ]);
     
     // Ici, vous pourriez ajouter l'envoi d'un email
     // Mail::to('hello@lajmj.studio')->send(new ContactForm($validated));
     
     // Redirection avec message de succès
-    return redirect('/contact')->with('success', 'Merci pour votre message ! Nous vous répondrons dès que possible.');
-});
+   // return redirect('/contact')->with('success', 'Merci pour votre message ! Nous vous répondrons dès que possible.');
+//});
