@@ -18,14 +18,23 @@
             <div class="col-md-6">
                 <div class="paper-patch">
                    <h3>01. FAIT AVEC PASSION</h3>
-                        <p class="typewriter">Chaque création est réalisée avec soin et passion. La sublimation transforme l'encre en gaz, qui pénètre profondément dans l'objet pour une personnalisation durable. Le résultat ? Des designs inaltérables, même dans le vidé de carnaval après avoir renversé ta Heineken dessus haha!</p>
+                        <p class="typewriter">Ici, on ne fait pas juste de la personnalisation… on la vit 😌
+Chaque création est faite à la main, avec passion, imagination et un petit grain de folie.
+
+Je prends un objet, j’y ajoute ton idée, ton souvenir, ton délire… et boum 💥 ça devient unique.
+Que ce soit pour offrir, marquer un moment ou te faire plaisir, chaque pièce a son caractère.</p>
 
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="paper-patch" style="transform: rotate(-1deg);">
                     <h3>02. L'ART DU DÉTAIL</h3>
-                    <p class="typewriter">Chaque création passe par nos mains. On vérifie les contrastes, la colorimétrie et la brillance. Si c'est pas parfait, ça ne sort pas de l'atelier.</p>
+                    <p class="typewriter">Chaque création passe par mes mains… Je vérifie les contrastes, les couleurs, la brillance.
+
+J’adore quand ça plaît à nos clients 😍
+Alors si ce n’est pas beau, pas éclatant, pas “wow”, pas digne d’un sourire ou d’un « j’adore ! »…
+ça ne sort pas de l’atelier. 
+Ici, je crée pour faire plaisir. Et ça, j’y tient 🎨✨</p>
                 </div>
             </div>
             <div class="col-md-12">
