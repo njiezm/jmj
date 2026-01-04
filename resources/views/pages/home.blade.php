@@ -31,7 +31,9 @@
                     <p class="lead">Notre identité visuelle repose sur trois couleurs fortes :<strong>le Bleu Nuit, symbole de profondeur et d’élégance,
 l’Or, pour l’éclat et l’excellence,
 et le Blanc, pour la pureté et l’intemporalité.</strong> dédié à la création d’objets personnalisés à forte valeur émotionnelle.</p>                    
-                    <p class="typewriter mt-4">Pourquoi nous ? Parce que nous privilégions l’authenticité, la créativité brute et le style assumé. Qu’il s’agisse d’un mug pour accompagner un café du matin ou d’une série limitée destinée à une boutique, chaque projet est traité avec la même exigence, la même passion et une véritable énergie créative.</p>
+                     <p class="lead">Derrière La JMJ, il y a une créatrice passionnée par le travail manuel et le fait-main. Chaque création naît d’un véritable amour du détail, du geste et du sens. Ce concept a été imaginé pour transformer de simples objets en souvenirs uniques, en cadeaux inoubliables, capables de marquer un moment, une émotion, une histoire.
+</p>     
+<p class="typewriter mt-4">Pourquoi nous ? Parce que nous privilégions l’authenticité, la créativité brute et le style assumé. Qu’il s’agisse d’un mug pour accompagner un café du matin ou d’une série limitée destinée à une boutique, chaque projet est traité avec la même exigence, la même passion et une véritable énergie créative.</p>
                     <a href="/objets" class="btn-ink mt-4 d-inline-block">Découvrir le catalogue</a>
                 </div>
             </div>
